@@ -11,8 +11,11 @@ async function main() {
         docID++
 
         if (!od.source.endsWith(".pdf")) {
+            originDoc[docID]['isPDF'] = false
             continue
         }
+
+        originDoc[docID]['isPDF'] = true
 
         const pdfRes = await axios.get(od.source, { responseType: "arraybuffer" })
         fs.writeFileSync("temp.pdf", pdfRes.data)
