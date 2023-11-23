@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^1.6.2",
+    "canvas": "^2.11.2",
+    "pdf-to-img": "^2.1.2"
+  }
+}
