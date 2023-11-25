@@ -7,6 +7,9 @@
         "roomCheck": "room-avaib.json"
     },
     "storeData": {
+        "changelogCurrent": {
+            "forVersion": "1.4"
+        },
         "allowedFeatures": [
             "news",
             "attendees",
@@ -16,7 +19,7 @@
             "behaviour"
         ],
         "wideAlerts": {
-            "enabled": true,
+            "enabled": false,
             "msg": "<strong>แอพนี้อยู่ในระหว่างการทดสอบ</strong> ถ้าเจอบัค หรือมีไอเดียดีๆ ก็ผ่ากส่งมาได้ที่ IG @pogmaji 😺",
             "colour": "green"
         },
