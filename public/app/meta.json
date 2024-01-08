@@ -19,7 +19,7 @@
             "behaviour"
         ],
         "wideAlerts": {
-            "enabled": true,
+            "enabled": false,
             "msg": "<strong>❗️ระบบบันทึกการมาโรงเรียนอาจจะไม่ทำงานในขณะนี้</strong> เนื่องจากข้อผิดพลาดในระบบเว็บโรงเรียน",
             "colour": "red"
         },
