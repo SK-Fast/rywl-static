@@ -1,4 +1,7 @@
 {
+    "maintenance": {
+        "enabled": false
+    },
     "streams": {
         "stable": "1.2",
         "beta": "b1.4"
