@@ -11,7 +11,7 @@
     },
     "storeData": {
         "changelogCurrent": {
-            "forVersion": "1.4"
+            "forVersion": "1.5"
         },
         "allowedFeatures": [
             "news",
