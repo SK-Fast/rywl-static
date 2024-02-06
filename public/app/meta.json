@@ -27,9 +27,7 @@
             "colour": "red"
         },
         "iframeApps": [
-            {
-                "url": "https://rywl-ifapp-esports.web.app/"
-            }
+            
         ],
         "periodTimes": [
             ["8:20", "9:10"],
